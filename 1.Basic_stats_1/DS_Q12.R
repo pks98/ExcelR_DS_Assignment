@@ -1,0 +1,7 @@
+scores <- c(34,36,36,38,38,39,39,40,40,41,41,41,41,42,42,45,49,56)
+mean(scores)
+median(scores)
+library(modeest)
+mfv(scores)
+var(scores)
+sd(scores)
